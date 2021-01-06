@@ -1,0 +1,16 @@
+Projekt_superliga to baza danych dla ligi esportowej w grze League Of Legends
+(w grze tej rozgrywane są spotkania po 5 zawodników w drużynie niebieskiej
+i 5 zawodników w drużynie czerwonej. W grze nie ma remisów.).
+
+Baza przechowuje dane na temat druzyn, zawodników, komentatorów,
+harmonogramu spotkań oraz kar dla zawodników w lidze.
+
+Głównym zadaniem bazy jest przechowywanie i aktualizowanie najważniejszych informacji 
+odnośnie ligi oraz sprawne wykorzystywanie tych danych do tworzenia i 
+wyszukiwania różnych statystyk. Jej podstawowym zadaniem jest sprawne ustawienie pozycji 
+drużyn w tabeli oraz zmiana ich bilansu (wygrane-przegrane) po dodaniu zwycięzcy.
+
+
+ 
+
+
